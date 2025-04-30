@@ -1,6 +1,6 @@
 # Microsoft Graph Mail Proxy
 
-A secure email proxy that connects standard mail clients to Microsoft Graph API, enabling access to Microsoft 365 mailboxes via traditional POP3S and SMTPS protocols.
+An usecure email proxy that connects standard mail clients to Microsoft Graph API, enabling access to Microsoft 365 mailboxes via traditional POP3S and SMTPS protocols.
 
 ## Overview
 
