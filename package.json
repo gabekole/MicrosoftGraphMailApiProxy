@@ -1,0 +1,24 @@
+{
+  "name": "microsoftgraphmailapiproxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@azure/msal-node": "^2.16.2",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "dotenv": "^16.5.0",
+    "greenlock": "^2.8.9",
+    "isomorphic-fetch": "^3.0.0",
+    "mailparser": "^3.7.2",
+    "nodemailer": "^6.9.16",
+    "poplib": "^0.1.7",
+    "selfsigned": "^2.4.1",
+    "smtp-server": "^3.13.6"
+  }
+}
